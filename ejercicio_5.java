@@ -1,6 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
+/* EJERCICIO: MATRIZ DE 10X1O INGRESADO POR TECLADO QUE SUME TODAS LA COLUMNAS IMPARES DE LA MATRIZ */
 public class ejercicio_5 {
     public static void main(String[] args) {
         //variables

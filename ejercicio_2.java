@@ -1,6 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
+/* EJERCICIO: MATRIZ DE 10X1O INGRESADO POR TECLADO MULTIPLIQUE LA DIAGONAL PRIMARIA Y SECUNDARIA */
 public class ejercicio_2 {
     public static void main(String[] args) {
         //variables
