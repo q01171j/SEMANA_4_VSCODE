@@ -6,7 +6,7 @@ public class ejercicio_7 {
     public static void main(String[] args) {
         //variables
         Scanner sc = new Scanner(System.in);
-        int tam = 4;
+        int tam = 10;
         int [][] matriz = new int[tam][tam];
         int [] SFI = new int [tam];
         
